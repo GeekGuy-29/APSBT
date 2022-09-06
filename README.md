@@ -16,8 +16,10 @@
 6. Jumper Wires
 
 ## Block Diagram of Project 
+<img width="402" alt="image" src="https://user-images.githubusercontent.com/74554911/188570210-fe279412-f62a-439d-ad2b-693ba4ca2758.png">
 
 ## Circuit Diagram
+![image](https://user-images.githubusercontent.com/74554911/188570247-4d854664-c57c-4950-ab54-33cc19f90d75.png)
 
 ## Conclusion
 > The purpose of this paper is to decrease the amount of accidents on curve roads which was done by alerting the driver by means of LED light by glowing when vehicle came from the opposite side of the curve. Everything was detected by the assistance of ultrasonic sensor which was interfaced with the arduino.
