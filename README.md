@@ -29,4 +29,4 @@
 ## Proof of Work
 > The proof can be found in [here](https://github.com/GeekGuy-29/APSBT/tree/main/APS%20for%20Blind%20Turns%20Working%20Proof)
 
-Built by [Chiranjeev](https://github.com/GeekGuy-29)
+Built by [Chiranjeev](https://github.com/GeekGuy-29) and [Jijeevisha](https://github.com/jijeevisha)
